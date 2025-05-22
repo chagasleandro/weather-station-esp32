@@ -1,6 +1,6 @@
 # 🌤️ Estação Meteorológica com ESP32 e MicroPython
 
-Este projeto é uma estação meteorológica simples com ESP32, escrita em Python (MicroPython), que mede temperatura e umidade e publica os dados via MQTT para visualização em tempo real com Grafana.
+Este projeto é uma estação meteorológica simples com ESP32, escrita em Python (MicroPython), que mede temperatura e umidade e publica os dados via MQTT para visualização em tempo real com celular.
 
 ## 🔧 Tecnologias
 - ESP32 + MicroPython
